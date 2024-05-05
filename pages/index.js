@@ -42,7 +42,6 @@ export default function Home() {
           <hr style={{ border: "1px #e4e4e4 solid" }} />
           <p 
           className="text-btn" style={{ marginTop: "5px" }}> + 텍스트</p>
-          <hr style={{ border: "1px #e4e4e4 solid" }} />
         </div>
 
         <hr style={{ border: "1px #e4e4e4 solid" }} />
