@@ -47,3 +47,13 @@ code {
   color:  #010101;
   transition: 0.5s;
 }
+
+.text-btn{
+  padding-left: 5px;
+  border-radius: 4px;
+}
+.text-btn:hover{
+  background-color: #f0f0f0;
+  cursor: pointer;
+
+}
