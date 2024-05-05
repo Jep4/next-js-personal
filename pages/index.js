@@ -51,6 +51,7 @@ export default function Home() {
           style={{
             cursor: 'pointer',
             backgroundColor: isPlaying ? '#222' : '',
+            transition: "0.4s",
             color: isPlaying ?  "#f4f4f4"  : ''
           }}
         >
