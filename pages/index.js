@@ -29,19 +29,19 @@ export default function Home() {
 
         <div>
           <p 
-          className="text-btn" style={{ marginTop: "5px" }}> + 이곳에 기재된 닉네임으로 불러주세요 | 인 </p>
+          className="text-btn" style={{ marginTop: "5px" }}> + 계정에 기재된 닉네임으로 불러주세요. 다리연공 받지 않고 연결하지 않음. </p>
           <hr style={{ border: "1px #e4e4e4 solid" }} />
           <p 
-          className="text-btn" style={{ marginTop: "5px" }}> + 텍스트</p>
+          className="text-btn" style={{ marginTop: "5px" }}> + 1차 캐릭터 커미션 / TRPG / 게임에 관심 없음 ... 아예 안 하는 건 아니긴 한데 제안해 주시면 보통 거절합니다 </p>
           <hr style={{ border: "1px #e4e4e4 solid" }} />
           <p 
-          className="text-btn" style={{ marginTop: "5px" }}> + 텍스트</p>
+          className="text-btn" style={{ marginTop: "5px" }}> + 소재 불호 없음. 진짜 없음... </p>
           <hr style={{ border: "1px #e4e4e4 solid" }} />
           <p 
-          className="text-btn" style={{ marginTop: "5px" }}> + 텍스트</p>
+          className="text-btn" style={{ marginTop: "5px" }}> + 그 외 싫은 건 다 싫다고 하니까 그런 말 없으면 재밌어하는구나 생각해 주세요 ~  ^  ^ ... </p>
           <hr style={{ border: "1px #e4e4e4 solid" }} />
           <p 
-          className="text-btn" style={{ marginTop: "5px" }}> + 텍스트</p>
+          className="text-btn" style={{ marginTop: "5px" }}> + 감사합니다 사랑합니다 💖</p>
         </div>
 
         <hr style={{ border: "1px #e4e4e4 solid" }} />
