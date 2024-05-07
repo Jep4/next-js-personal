@@ -27,6 +27,19 @@ export default function Home() {
         <p className='pt-2 pb-2'></p>
         <hr style={{ border: "1px #444 solid", marginBottom: "3px" }} />
 
+        <div
+          className="text-btn"
+          onClick={togglePlay}
+          style={{
+            cursor: 'pointer',
+            backgroundColor: isPlaying ? '#222' : '',
+            transition: "0.4s",
+            color: isPlaying ?  "#f4f4f4"  : ''
+          }}
+        >
+          {isPlaying ? ' + 노래 재생 중' : ' + 노래 재생'}
+        </div>
+          <hr style={{ border: "1px #e4e4e4 solid" }} />
         <div>
           <p 
           className="text-btn" style={{ marginTop: "5px" }}> + 계정에 기재된 닉네임으로 불러주세요. 다리연공 받지 않고 연결하지 않음. </p>
@@ -45,18 +58,6 @@ export default function Home() {
         </div>
 
         <hr style={{ border: "1px #e4e4e4 solid" }} />
-        <div
-          className="text-btn"
-          onClick={togglePlay}
-          style={{
-            cursor: 'pointer',
-            backgroundColor: isPlaying ? '#222' : '',
-            transition: "0.4s",
-            color: isPlaying ?  "#f4f4f4"  : ''
-          }}
-        >
-          {isPlaying ? ' + 노래 재생 중' : ' + 노래 재생'}
-        </div>
 
       </main>
 
