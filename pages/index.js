@@ -43,16 +43,16 @@ export default function Home() {
         <hr style={{ border: "1px #e4e4e4 solid" }} />
         <div>
           <p
-            className="text-btn" > + 인 혹은 계정에 기재된 닉네임으로 불러주세요. <br></br> + 다리연공 받지 않고 연결하지 않음. </p>
+            className="text-btn" > +  텍스트텍스트텍스트텍스트텍스트텍스트. <br></br> + 텍스트텍스트텍스트텍스트. </p>
           <hr style={{ border: "1px #e4e4e4 solid" }} />
           <p
-            className="text-btn" > + 1차 캐릭터 커미션 / TRPG / 온라인 게임에 관심 없음 <br></br> + 아예 안 하진 않는데 제안 주셔도 보통 거절합니다</p>
+            className="text-btn" > + 텍스트텍스트텍스트텍스트텍스트 <br></br> + 텍스트텍스트텍스트텍스트텍스트텍스트 </p>
           <hr style={{ border: "1px #e4e4e4 solid" }} />
           <p
-            className="text-btn" > + 급한 용무는 오픈채팅 연락 바랍니다. <br></br>+ 일 없어도 환영 💗</p>
+            className="text-btn" > + 텍스트텍스트텍스트<br></br>+ 텍스트텍스트텍스트</p>
           <hr style={{ border: "1px #e4e4e4 solid" }} />
           <p
-            className="text-btn" > + 감사합니다 사랑합니다 ~~^  ^ </p>
+            className="text-btn" > + 텍스트텍스트텍스트텍스트 </p>
         </div>
 
         <hr style={{ border: "1px #e4e4e4 solid" }} />
@@ -66,7 +66,7 @@ export default function Home() {
             </a>
           <a href='https://twitter.com/cute_pigs_tweet' >
             <div className='btns' >
-              좋아하는애
+              좋아하는거
             </div>
           </a>
           <a href='https://www.youtube.com/watch?v=wDgQdr8ZkTw'>
