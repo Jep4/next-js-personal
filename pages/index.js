@@ -43,7 +43,7 @@ export default function Home() {
         <hr style={{ border: "1px #e4e4e4 solid" }} />
         <div>
           <p
-            className="text-btn" > +  텍스트텍스트텍스트텍스트텍스트텍스트. <br></br> + 텍스트텍스트텍스트텍스트. </p>
+            className="text-btn" > +  임시 갠홈 <br></br> + 텍스트텍스트텍스트텍스트. </p>
           <hr style={{ border: "1px #e4e4e4 solid" }} />
           <p
             className="text-btn" > + 텍스트텍스트텍스트텍스트텍스트 <br></br> + 텍스트텍스트텍스트텍스트텍스트텍스트 </p>
@@ -64,9 +64,9 @@ export default function Home() {
               오픈채팅
             </div>
             </a>
-          <a href='https://twitter.com/cute_pigs_tweet' >
+          <a href='https://xx-x.notion.site/fd2dfcf06ce141d5a034b42dd58573ac?pvs=4' >
             <div className='btns' >
-              좋아하는거
+              연성교환
             </div>
           </a>
           <a href='https://www.youtube.com/watch?v=wDgQdr8ZkTw'>
